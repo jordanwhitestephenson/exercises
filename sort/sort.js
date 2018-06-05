@@ -15,4 +15,3 @@ function sortMyArray(array) {
 }
 
 sortMyArray([1,6,7,8])
-s
